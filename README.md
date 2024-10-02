@@ -42,9 +42,11 @@ sh experiment_script/debug.sh
 
 If you use this code in your research, please consider citing our work:
 
+```
 @inproceedings{ourpaper references,
   title={Variational Bayesian Pseudo-Coreset},
   author={**Hyungi Lee**, Seungyoo Lee, **Jujo Lee**},
   booktitle={ICLR2025},
   year={2024}
 }
+```
