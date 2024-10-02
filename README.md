@@ -1,6 +1,6 @@
 # Variational Bayesian Pseudo-Coreset (VBPC)
 
-This repository contains the implementation of the **Variational Bayesian Pseudo-Coreset (VBPC)**, a method designed for efficient coreset selection in Bayesian models.
+This repository contains the implementation of the **Variational Bayesian Pseudo-Coreset (VBPC)**.
 
 ## Table of Contents
 - [Installation](#installation)
